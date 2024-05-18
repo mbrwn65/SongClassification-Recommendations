@@ -1,6 +1,6 @@
 # Song Lyric Classification and Recommendation System with Natural Language Processing
 ### [Data Source](https://www.kaggle.com/datasets/carlosgdcj/genius-song-lyrics-with-language-information): Song data for over 5 Million songs, taken from Genius.com by CarlosGDCJ
-**_______________________________________________________________________________________________________**
+**_______________________________________________________________________________________________**
 # Results:
 ## Recommendations:
 <img width="524" alt="Screenshot 2024-05-18 at 3 33 43 PM" src="https://github.com/mbrwn65/SongClassification-Recommendations/assets/117549863/7f985e7a-de14-46e5-85b6-5107fc13c480"><br/>
