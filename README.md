@@ -1,6 +1,6 @@
 # Song Lyric Classification and Recommendation System with Natural Language Processing
 ### [Data Source](https://www.kaggle.com/datasets/carlosgdcj/genius-song-lyrics-with-language-information): Song data for over 5 Million songs, taken from Genius.com by CarlosGDCJ
-**__________________________________________________________________________________________________________________**
+**_____________________________________________________________________________________________**
 # Results:
 ## Recommendations:
 <img width="524" alt="Screenshot 2024-05-18 at 3 33 43 PM" src="https://github.com/mbrwn65/SongClassification-Recommendations/assets/117549863/7f985e7a-de14-46e5-85b6-5107fc13c480"><br/>
@@ -12,7 +12,7 @@ When called, generates a specified # of song recommendations for a given song & 
 <img width="475" alt="Screenshot 2024-05-18 at 3 34 52 PM" src="https://github.com/mbrwn65/SongClassification-Recommendations/assets/117549863/ecf0214a-ef8b-41b2-bc29-4ecc3d15922b">
 
 A basic logistic regression model resulted in the best performance out of the models that I tested, classifying Artists correctly ~16% of the time & classifying Genre correctly ~71% of the time (with the best performance on rap songs as shown above)<br/><br/>
-**__________________________________________________________________________________________________________________**
+**_____________________________________________________________________________________________**
 # Basic Methodology (after cleaning the dataset and tokenizing lyrics):
 ### Vector Representation of Lyrics:
 <img width="598" alt="Screenshot 2024-05-18 at 3 35 30 PM" src="https://github.com/mbrwn65/SongClassification-Recommendations/assets/117549863/0db7918b-69e4-44b5-87d6-661c4bbab79a">
