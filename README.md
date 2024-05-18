@@ -3,7 +3,7 @@
 **_______________________________________________________________________________________________________**
 # Results:
 ## Recommendations:
-<img width="452" alt="Screenshot 2024-05-14 at 5 01 23 PM" src="https://github.com/mbrwn65/SongClassification-Recommendations/assets/117549863/d05dc8ab-bfb0-49fe-9893-27ee836bc462"><br/>
+<br/>
 When called, generates a specified # of song recommendations for a given song & artist
 - song recommendations are based on lyrical similarity, not audio similarity<br/><br/>
 ## Classification:
